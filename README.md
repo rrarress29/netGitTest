@@ -1,1 +1,2 @@
 # netGitTest changed
+New line
